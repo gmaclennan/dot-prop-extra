@@ -1,15 +1,21 @@
 {
-	"name": "dot-prop",
+	"name": "dot-prop-extra",
 	"version": "10.1.0",
 	"description": "Get, set, or delete a property from a nested object using a dot path",
 	"license": "MIT",
-	"repository": "sindresorhus/dot-prop",
+	"repository": "gmaclennan/dot-prop-extra",
 	"funding": "https://github.com/sponsors/sindresorhus",
-	"author": {
-		"name": "Sindre Sorhus",
-		"email": "sindresorhus@gmail.com",
-		"url": "https://sindresorhus.com"
-	},
+	"authors": [
+		{
+			"name": "Sindre Sorhus",
+			"email": "sindresorhus@gmail.com",
+			"url": "https://sindresorhus.com"
+		},
+		{
+			"name": "Gregor MacLennan",
+			"email": "gmaclennan@gmail.com"
+		}
+	],
 	"type": "module",
 	"exports": {
 		"types": "./index.d.ts",
